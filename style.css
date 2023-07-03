@@ -4,6 +4,13 @@
   --black :#000000 ;
   --neutral-black :#545454;
 }
+.titlep{
+    display: flex;
+    justify-content: flex-end;
+}
+p{
+    color:var(--neutral-black)
+}
 body{
     font-family: 'Syne', sans-serif;
     margin:3rem 12rem 1rem 12rem;
